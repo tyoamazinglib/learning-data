@@ -1,0 +1,286 @@
+﻿Year;Month;Year-Month;Type;Details;Amount
+2021;9;2021-9;Income;Salary;Rp18.000.000
+2021;9;2021-9;Expense;Food & Beverage;Rp467.200
+2021;9;2021-9;Expense;Fitness;Rp173.000
+2021;9;2021-9;Expense;Transportation;Rp14.000
+2021;10;2021-10;Income;Salary;Rp12.000.000
+2021;10;2021-10;Income;Incoming Transfer;Rp350.000
+2021;10;2021-10;Expense;Gifts & Donation;Rp2.796.500
+2021;10;2021-10;Expense;Food & Beverage;Rp1.139.500
+2021;10;2021-10;Expense;Education;Rp750.000
+2021;10;2021-10;Expense;Hotel;Rp650.000
+2021;10;2021-10;Expense;Transportation;Rp72.000
+2021;11;2021-11;Income;Salary;Rp12.000.000
+2021;11;2021-11;Income;Other Income;Rp4.700.000
+2021;11;2021-11;Expense;Phone Bill;Rp5.300.000
+2021;11;2021-11;Expense;Gifts & Donation;Rp2.101.000
+2021;11;2021-11;Expense;Date;Rp682.500
+2021;11;2021-11;Expense;Hotel;Rp226.000
+2021;11;2021-11;Expense;Food & Beverage;Rp194.500
+2021;11;2021-11;Expense;Transportation;Rp110.000
+2021;11;2021-11;Expense;Fitness;Rp97.000
+2021;11;2021-11;Expense;Personal Items;Rp61.000
+2021;11;2021-11;Expense;Fun Money;Rp50.000
+2021;12;2021-12;Income;Adjust Balance;Rp11.626.443
+2021;12;2021-12;Income;Salary;Rp12.000.000
+2021;12;2021-12;Income;Incoming Transfer;Rp2.030.000
+2021;12;2021-12;Expense;Gifts & Donation;Rp1.960.000
+2021;12;2021-12;Expense;Food & Beverage;Rp1.288.500
+2021;12;2021-12;Expense;Makeup;Rp406.000
+2021;12;2021-12;Expense;Transportation;Rp330.000
+2021;12;2021-12;Expense;Date;Rp319.000
+2021;12;2021-12;Expense;Hotel;Rp232.500
+2021;12;2021-12;Expense;Other Expense;Rp170.000
+2021;12;2021-12;Expense;Phone Bill;Rp145.000
+2021;12;2021-12;Expense;Fun Money;Rp100.000
+2021;12;2021-12;Expense;Medical Check-up;Rp75.000
+2021;12;2021-12;Expense;Television Bill;Rp46.500
+2022;1;2022-1;Income;Salary;Rp13.181.855
+2022;1;2022-1;Income;Other Income;Rp250.000
+2022;1;2022-1;Income;Incoming Transfer;Rp250.000
+2022;1;2022-1;Expense;Internet Bill;Rp3.795.000
+2022;1;2022-1;Expense;Gifts & Donation;Rp2.348.525
+2022;1;2022-1;Expense;Hotel;Rp1.500.000
+2022;1;2022-1;Expense;Food & Beverage;Rp1.119.170
+2022;1;2022-1;Expense;Fun Money;Rp147.000
+2022;1;2022-1;Expense;Transportation;Rp117.500
+2022;1;2022-1;Expense;Medical Check-up;Rp108.300
+2022;1;2022-1;Expense;Houseware;Rp47.000
+2022;1;2022-1;Expense;Television Bill;Rp46.500
+2022;2;2022-2;Income;Salary;Rp13.181.855
+2022;2;2022-2;Income;Incoming Transfer;Rp320.000
+2022;2;2022-2;Expense;Investment;Rp9.270.000
+2022;2;2022-2;Expense;Gifts & Donation;Rp2.365.782
+2022;2;2022-2;Expense;Food & Beverage;Rp771.830
+2022;2;2022-2;Expense;Medical Check-up;Rp241.500
+2022;2;2022-2;Expense;Transportation;Rp143.000
+2022;2;2022-2;Expense;Phone Bill;Rp105.900
+2022;2;2022-2;Expense;Hotel;Rp67.852
+2022;2;2022-2;Expense;Television Bill;Rp46.500
+2022;2;2022-2;Expense;Internet Bill;Rp15.000
+2022;3;2022-3;Income;Salary;Rp13.181.855
+2022;3;2022-3;Income;Incoming Transfer;Rp8.359.000
+2022;3;2022-3;Expense;Food & Beverage;Rp960.350
+2022;3;2022-3;Expense;Medical Check-up;Rp372.750
+2022;3;2022-3;Expense;Transportation;Rp322.000
+2022;3;2022-3;Expense;Fitness;Rp200.000
+2022;3;2022-3;Expense;Outgoing Transfer;Rp139.169
+2022;3;2022-3;Expense;Gifts & Donation;Rp119.000
+2022;3;2022-3;Expense;Television Bill;Rp46.500
+2022;3;2022-3;Expense;Other Utility Bills;Rp21.667
+2022;3;2022-3;Expense;Phone Bill;Rp15.000
+2022;4;2022-4;Income;Salary;Rp13.181.855
+2022;4;2022-4;Income;Other Income;Rp13.157.778
+2022;4;2022-4;Income;Incoming Transfer;Rp399.000
+2022;4;2022-4;Expense;Gifts & Donation;Rp2.613.482
+2022;4;2022-4;Expense;Food & Beverage;Rp1.737.379
+2022;4;2022-4;Expense;Electricity Bill;Rp500.500
+2022;4;2022-4;Expense;Date;Rp280.000
+2022;4;2022-4;Expense;Medical Check-up;Rp116.483
+2022;4;2022-4;Expense;Transportation;Rp100.000
+2022;4;2022-4;Expense;Television Bill;Rp46.500
+2022;4;2022-4;Expense;Other Expense;Rp42.000
+2022;4;2022-4;Expense;Other Utility Bills;Rp27.737
+2022;4;2022-4;Expense;Phone Bill;Rp20.000
+2022;5;2022-5;Income;Salary;Rp13.181.855
+2022;5;2022-5;Income;Incoming Transfer;Rp422.377
+2022;5;2022-5;Expense;Food & Beverage;Rp2.454.607
+2022;5;2022-5;Expense;Gifts & Donation;Rp1.650.425
+2022;5;2022-5;Expense;Electricity Bill;Rp502.500
+2022;5;2022-5;Expense;Transportation;Rp351.000
+2022;5;2022-5;Expense;Fun Money;Rp135.000
+2022;5;2022-5;Expense;Television Bill;Rp46.500
+2022;5;2022-5;Expense;Phone Bill;Rp30.500
+2022;5;2022-5;Expense;Other Utility Bills;Rp21.667
+2022;6;2022-6;Income;Salary;Rp13.181.855
+2022;6;2022-6;Income;Incoming Transfer;Rp300.000
+2022;6;2022-6;Expense;Vehicle Maintenance;Rp25.000.000
+2022;6;2022-6;Expense;Gifts & Donation;Rp2.124.000
+2022;6;2022-6;Expense;Food & Beverage;Rp1.119.472
+2022;6;2022-6;Expense;Electricity Bill;Rp500.750
+2022;6;2022-6;Expense;Fun Money;Rp295.000
+2022;6;2022-6;Expense;Transportation;Rp284.000
+2022;6;2022-6;Expense;Fitness;Rp157.000
+2022;6;2022-6;Expense;Television Bill;Rp46.500
+2022;6;2022-6;Expense;Other Utility Bills;Rp21.667
+2022;6;2022-6;Expense;Medical Check-up;Rp16.000
+2022;7;2022-7;Income;Salary;Rp13.181.855
+2022;7;2022-7;Income;Incoming Transfer;Rp6.350.000
+2022;7;2022-7;Expense;Fun Money;Rp13.074.000
+2022;7;2022-7;Expense;Vehicle Maintenance;Rp6.350.000
+2022;7;2022-7;Expense;Gifts & Donation;Rp5.737.600
+2022;7;2022-7;Expense;Date;Rp1.208.260
+2022;7;2022-7;Expense;Food & Beverage;Rp800.978
+2022;7;2022-7;Expense;Transportation;Rp596.110
+2022;7;2022-7;Expense;Fitness;Rp87.300
+2022;7;2022-7;Expense;Television Bill;Rp46.500
+2022;7;2022-7;Expense;Medical Check-up;Rp26.500
+2022;7;2022-7;Expense;Makeup;Rp25.000
+2022;8;2022-8;Income;Salary;Rp13.181.855
+2022;8;2022-8;Income;Incoming Transfer;Rp629.750
+2022;8;2022-8;Expense;Vehicle Maintenance;Rp10.000.000
+2022;8;2022-8;Expense;Gifts & Donation;Rp2.620.204
+2022;8;2022-8;Expense;Fun Money;Rp1.819.329
+2022;8;2022-8;Expense;Date;Rp938.225
+2022;8;2022-8;Expense;Food & Beverage;Rp840.839
+2022;8;2022-8;Expense;Transportation;Rp502.500
+2022;8;2022-8;Expense;Makeup;Rp395.050
+2022;8;2022-8;Expense;Other Expense;Rp273.500
+2022;8;2022-8;Expense;Phone Bill;Rp49.250
+2022;8;2022-8;Expense;Television Bill;Rp46.500
+2022;9;2022-9;Income;Salary;Rp13.181.855
+2022;9;2022-9;Income;Incoming Transfer;Rp210.000
+2022;9;2022-9;Income;Other Income;Rp206.250
+2022;9;2022-9;Expense;Vehicle Maintenance;Rp17.610.000
+2022;9;2022-9;Expense;Gifts & Donation;Rp1.825.100
+2022;9;2022-9;Expense;Transportation;Rp564.880
+2022;9;2022-9;Expense;Food & Beverage;Rp561.315
+2022;9;2022-9;Expense;Makeup;Rp539.024
+2022;9;2022-9;Expense;Date;Rp425.495
+2022;9;2022-9;Expense;Fitness;Rp219.000
+2022;9;2022-9;Expense;Other Utility Bills;Rp125.000
+2022;9;2022-9;Expense;Phone Bill;Rp50.000
+2022;9;2022-9;Expense;Medical Check-up;Rp50.000
+2022;9;2022-9;Expense;Television Bill;Rp46.500
+2022;10;2022-10;Income;Salary;Rp13.181.855
+2022;10;2022-10;Income;Other Income;Rp3.006.250
+2022;10;2022-10;Income;Incoming Transfer;Rp350.000
+2022;10;2022-10;Expense;Vehicle Maintenance;Rp23.240.000
+2022;10;2022-10;Expense;Gifts & Donation;Rp5.268.860
+2022;10;2022-10;Expense;Food & Beverage;Rp970.495
+2022;10;2022-10;Expense;Transportation;Rp910.705
+2022;10;2022-10;Expense;Date;Rp251.526
+2022;10;2022-10;Expense;Other Utility Bills;Rp241.500
+2022;10;2022-10;Expense;Other Expense;Rp200.000
+2022;10;2022-10;Expense;Television Bill;Rp46.500
+2022;10;2022-10;Expense;Makeup;Rp25.000
+2022;11;2022-11;Income;Salary;Rp13.181.855
+2022;11;2022-11;Income;Other Income;Rp556.250
+2022;11;2022-11;Income;Incoming Transfer;Rp411.428
+2022;11;2022-11;Expense;Gifts & Donation;Rp2.059.000
+2022;11;2022-11;Expense;Fitness;Rp2.048.500
+2022;11;2022-11;Expense;Food & Beverage;Rp691.100
+2022;11;2022-11;Expense;Transportation;Rp369.000
+2022;11;2022-11;Expense;Other Utility Bills;Rp198.500
+2022;11;2022-11;Expense;Date;Rp150.000
+2022;11;2022-11;Expense;Television Bill;Rp46.500
+2022;11;2022-11;Expense;Phone Bill;Rp45.000
+2022;11;2022-11;Expense;Medical Check-up;Rp5.000
+2022;12;2022-12;Income;Salary;Rp13.181.855
+2022;12;2022-12;Income;Other Income;Rp5.815.000
+2022;12;2022-12;Income;Incoming Transfer;Rp20.130.000
+2022;12;2022-12;Expense;Investment;Rp23.800.029
+2022;12;2022-12;Expense;Gifts & Donation;Rp2.302.099
+2022;12;2022-12;Expense;Food & Beverage;Rp1.169.690
+2022;12;2022-12;Expense;Other Utility Bills;Rp829.000
+2022;12;2022-12;Expense;Makeup;Rp357.150
+2022;12;2022-12;Expense;Transportation;Rp222.000
+2022;12;2022-12;Expense;Phone Bill;Rp130.000
+2022;12;2022-12;Expense;Houseware;Rp69.900
+2022;12;2022-12;Expense;Gas Bill;Rp51.000
+2022;12;2022-12;Expense;Other Expense;Rp49.200
+2022;12;2022-12;Expense;Medical Check-up;Rp45.700
+2022;12;2022-12;Expense;Outgoing Transfer;Rp3.500
+2023;1;2023-1;Income;Other Income;Rp30.376.210
+2023;1;2023-1;Income;Salary;Rp15.894.855
+2023;1;2023-1;Income;Incoming Transfer;Rp230.000
+2023;1;2023-1;Expense;Outgoing Transfer;Rp25.175.000
+2023;1;2023-1;Expense;Gifts & Donation;Rp2.897.638
+2023;1;2023-1;Expense;Food & Beverage;Rp1.121.250
+2023;1;2023-1;Expense;Transportation;Rp827.500
+2023;1;2023-1;Expense;Fitness;Rp633.700
+2023;1;2023-1;Expense;Internet Bill;Rp416.250
+2023;1;2023-1;Expense;Other Utility Bills;Rp362.667
+2023;1;2023-1;Expense;Other Expense;Rp90.000
+2023;1;2023-1;Expense;Phone Bill;Rp90.000
+2023;1;2023-1;Expense;Fun Money;Rp50.000
+2023;1;2023-1;Expense;Medical Check-up;Rp30.600
+2023;2;2023-2;Income;Other Income;Rp7.306.250
+2023;2;2023-2;Income;Salary;Rp15.894.855
+2023;2;2023-2;Income;Incoming Transfer;Rp17.200.000
+2023;2;2023-2;Expense;Hotel;Rp11.817.983
+2023;2;2023-2;Expense;Gifts & Donation;Rp2.369.000
+2023;2;2023-2;Expense;Food & Beverage;Rp1.261.285
+2023;2;2023-2;Expense;Transportation;Rp795.670
+2023;2;2023-2;Expense;Other Expense;Rp425.500
+2023;2;2023-2;Expense;Internet Bill;Rp416.250
+2023;2;2023-2;Expense;Fun Money;Rp325.000
+2023;2;2023-2;Expense;Other Utility Bills;Rp101.000
+2023;2;2023-2;Expense;Phone Bill;Rp95.000
+2023;2;2023-2;Expense;Television Bill;Rp93.000
+2023;2;2023-2;Expense;Fitness;Rp65.000
+2023;2;2023-2;Expense;Makeup;Rp25.000
+2023;3;2023-3;Income;Salary;Rp18.394.855
+2023;3;2023-3;Income;Incoming Transfer;Rp3.013.000
+2023;3;2023-3;Income;Other Income;Rp2.406.250
+2023;3;2023-3;Expense;Outgoing Transfer;Rp21.500.000
+2023;3;2023-3;Expense;Gifts & Donation;Rp2.601.200
+2023;3;2023-3;Expense;Food & Beverage;Rp1.233.567
+2023;3;2023-3;Expense;Makeup;Rp557.312
+2023;3;2023-3;Expense;Internet Bill;Rp416.250
+2023;3;2023-3;Expense;Other Utility Bills;Rp315.509
+2023;3;2023-3;Expense;Fitness;Rp262.900
+2023;3;2023-3;Expense;Transportation;Rp255.500
+2023;3;2023-3;Expense;Fun Money;Rp225.000
+2023;3;2023-3;Expense;Other Expense;Rp180.000
+2023;3;2023-3;Expense;Phone Bill;Rp95.000
+2023;3;2023-3;Expense;Streaming Service;Rp55.000
+2023;3;2023-3;Expense;Gas Bill;Rp34.000
+2023;4;2023-4;Income;Salary;Rp20.894.855
+2023;4;2023-4;Income;Other Income;Rp15.894.855
+2023;4;2023-4;Income;Incoming Transfer;Rp4.600.000
+2023;4;2023-4;Expense;Gifts & Donation;Rp10.673.042
+2023;4;2023-4;Expense;Hotel;Rp8.392.430
+2023;4;2023-4;Expense;Food & Beverage;Rp735.000
+2023;4;2023-4;Expense;Transportation;Rp435.000
+2023;4;2023-4;Expense;Internet Bill;Rp416.250
+2023;4;2023-4;Expense;Phone Bill;Rp136.000
+2023;4;2023-4;Expense;Television Bill;Rp93.000
+2023;4;2023-4;Expense;Fun Money;Rp69.000
+2023;4;2023-4;Expense;Other Utility Bills;Rp34.000
+2023;4;2023-4;Expense;Fitness;Rp10.000
+2023;5;2023-5;Income;Salary;Rp20.894.855
+2023;5;2023-5;Income;Incoming Transfer;Rp15.475.000
+2023;5;2023-5;Income;Other Income;Rp556.250
+2023;5;2023-5;Expense;Outgoing Transfer;Rp5.925.000
+2023;5;2023-5;Expense;Houseware;Rp3.525.000
+2023;5;2023-5;Expense;Gifts & Donation;Rp3.086.408
+2023;5;2023-5;Expense;Hotel;Rp2.951.000
+2023;5;2023-5;Expense;Food & Beverage;Rp1.015.900
+2023;5;2023-5;Expense;Internet Bill;Rp416.250
+2023;5;2023-5;Expense;Date;Rp295.680
+2023;5;2023-5;Expense;Transportation;Rp222.000
+2023;5;2023-5;Expense;Other Utility Bills;Rp261.500
+2023;5;2023-5;Expense;Phone Bill;Rp120.000
+2023;5;2023-5;Expense;Television Bill;Rp46.500
+2023;5;2023-5;Expense;Fitness;Rp30.000
+2023;6;2023-6;Income;Salary;Rp20.894.855
+2023;6;2023-6;Income;Other Income;Rp3.573.000
+2023;6;2023-6;Income;Incoming Transfer;Rp200.000
+2023;6;2023-6;Expense;Gifts & Donation;Rp6.634.500
+2023;6;2023-6;Expense;Hotel;Rp4.547.077
+2023;6;2023-6;Expense;Outgoing Transfer;Rp1.846.500
+2023;6;2023-6;Expense;Food & Beverage;Rp1.470.700
+2023;6;2023-6;Expense;Transportation;Rp588.110
+2023;6;2023-6;Expense;Internet Bill;Rp461.250
+2023;6;2023-6;Expense;Other Utility Bills;Rp312.500
+2023;6;2023-6;Expense;Fitness;Rp240.000
+2023;6;2023-6;Expense;Phone Bill;Rp50.000
+2023;7;2023-7;Income;Salary;Rp20.894.855
+2023;7;2023-7;Income;Incoming Transfer;Rp10.910.933
+2023;7;2023-7;Income;Other Income;Rp900.000
+2023;7;2023-7;Expense;Investment;Rp50.000.000
+2023;7;2023-7;Expense;Outgoing Transfer;Rp10.326.349
+2023;7;2023-7;Expense;Hotel;Rp3.593.228
+2023;7;2023-7;Expense;Gifts & Donation;Rp3.083.900
+2023;7;2023-7;Expense;Food & Beverage;Rp1.685.500
+2023;7;2023-7;Expense;Personal Items;Rp490.000
+2023;7;2023-7;Expense;Other Expense;Rp427.500
+2023;7;2023-7;Expense;Internet Bill;Rp416.250
+2023;7;2023-7;Expense;Other Utility Bills;Rp345.900
+2023;7;2023-7;Expense;Transportation;Rp311.000
+2023;7;2023-7;Expense;Makeup;Rp222.500
+2023;7;2023-7;Expense;Television Bill;Rp93.000
+2023;7;2023-7;Expense;Fun Money;Rp53.795
+2023;7;2023-7;Expense;Gas Bill;Rp34.000
+2023;7;2023-7;Expense;Medical Check-up;Rp5.000
